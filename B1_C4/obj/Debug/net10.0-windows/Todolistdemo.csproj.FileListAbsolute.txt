@@ -1,0 +1,17 @@
+E:\LTTQ\Todolistdemo\bin\Debug\net10.0-windows\Todolistdemo.exe
+E:\LTTQ\Todolistdemo\bin\Debug\net10.0-windows\Todolistdemo.deps.json
+E:\LTTQ\Todolistdemo\bin\Debug\net10.0-windows\Todolistdemo.runtimeconfig.json
+E:\LTTQ\Todolistdemo\bin\Debug\net10.0-windows\Todolistdemo.dll
+E:\LTTQ\Todolistdemo\bin\Debug\net10.0-windows\Todolistdemo.pdb
+E:\LTTQ\Todolistdemo\obj\Debug\net10.0-windows\TodoListDemo.Form1.resources
+E:\LTTQ\Todolistdemo\obj\Debug\net10.0-windows\Todolistdemo.csproj.GenerateResource.cache
+E:\LTTQ\Todolistdemo\obj\Debug\net10.0-windows\Todolistdemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\LTTQ\Todolistdemo\obj\Debug\net10.0-windows\Todolistdemo.AssemblyInfoInputs.cache
+E:\LTTQ\Todolistdemo\obj\Debug\net10.0-windows\Todolistdemo.AssemblyInfo.cs
+E:\LTTQ\Todolistdemo\obj\Debug\net10.0-windows\Todolistdemo.csproj.CoreCompileInputs.cache
+E:\LTTQ\Todolistdemo\obj\Debug\net10.0-windows\Todolistdemo.dll
+E:\LTTQ\Todolistdemo\obj\Debug\net10.0-windows\refint\Todolistdemo.dll
+E:\LTTQ\Todolistdemo\obj\Debug\net10.0-windows\Todolistdemo.pdb
+E:\LTTQ\Todolistdemo\obj\Debug\net10.0-windows\Todolistdemo.genruntimeconfig.cache
+E:\LTTQ\Todolistdemo\obj\Debug\net10.0-windows\ref\Todolistdemo.dll
+E:\LTTQ\Todolistdemo\obj\Debug\net10.0-windows\Todolist.96840987.Up2Date

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Todolistdemo/1.0.0": {
+        "runtime": {
+          "Todolistdemo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Todolistdemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,17 @@
+E:\LTTQ\Gymdangkydemo\bin\Debug\net10.0-windows\Gymdangkydemo.exe
+E:\LTTQ\Gymdangkydemo\bin\Debug\net10.0-windows\Gymdangkydemo.deps.json
+E:\LTTQ\Gymdangkydemo\bin\Debug\net10.0-windows\Gymdangkydemo.runtimeconfig.json
+E:\LTTQ\Gymdangkydemo\bin\Debug\net10.0-windows\Gymdangkydemo.dll
+E:\LTTQ\Gymdangkydemo\bin\Debug\net10.0-windows\Gymdangkydemo.pdb
+E:\LTTQ\Gymdangkydemo\obj\Debug\net10.0-windows\GymDangKyDemo.Form1.resources
+E:\LTTQ\Gymdangkydemo\obj\Debug\net10.0-windows\Gymdangkydemo.csproj.GenerateResource.cache
+E:\LTTQ\Gymdangkydemo\obj\Debug\net10.0-windows\Gymdangkydemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\LTTQ\Gymdangkydemo\obj\Debug\net10.0-windows\Gymdangkydemo.AssemblyInfoInputs.cache
+E:\LTTQ\Gymdangkydemo\obj\Debug\net10.0-windows\Gymdangkydemo.AssemblyInfo.cs
+E:\LTTQ\Gymdangkydemo\obj\Debug\net10.0-windows\Gymdangkydemo.csproj.CoreCompileInputs.cache
+E:\LTTQ\Gymdangkydemo\obj\Debug\net10.0-windows\Gymdangkydemo.dll
+E:\LTTQ\Gymdangkydemo\obj\Debug\net10.0-windows\refint\Gymdangkydemo.dll
+E:\LTTQ\Gymdangkydemo\obj\Debug\net10.0-windows\Gymdangkydemo.pdb
+E:\LTTQ\Gymdangkydemo\obj\Debug\net10.0-windows\Gymdangkydemo.genruntimeconfig.cache
+E:\LTTQ\Gymdangkydemo\obj\Debug\net10.0-windows\ref\Gymdangkydemo.dll
+E:\LTTQ\Gymdangkydemo\obj\Debug\net10.0-windows\Gymdangk.EB971959.Up2Date
